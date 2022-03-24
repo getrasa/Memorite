@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://getrasa:gestrams123@memorite-m7pa7.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "SoraShiroRikuShuvi"
+}
