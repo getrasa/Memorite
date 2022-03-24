@@ -1,6 +1,6 @@
 
 # Memorite
-**Memorite** is a flashcard web application using spaced repetition, a highly effective memorisation technique from cognitive science for fast and long-lasting memorisation. Memorite was developed to be an Anki competitor but with more pleasant UI in return for limited customisability.
+**Memorite** is a flashcard web application using spaced repetition, a highly effective memorisation technique from cognitive science for fast and long-lasting memorisation. Memorite was developed to be an Anki competitor but with more pleasant UI in return for limited customisability. It has been greatly inspired by Wanikani.
 
 *See full presentation at: https://youtu.be/TolJb8sQQMM*
 
