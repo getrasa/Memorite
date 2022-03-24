@@ -1,17 +1,23 @@
 
 # Memorite
-*See full presentation at: https://youtu.be/TolJb8sQQMM*
+**Memorite** is a flashcard web application using spaced repetition, a highly effective memorisation technique from cognitive science for fast and long-lasting memorisation. Memorite was developed to be an Anki competitor but with more pleasant UI in return for limited customisability.
 
-**Memorite** is a flashcard web application using spaced repetition, a highly effective memorisation technique from cognitive science for fast and long-lasting memorization. Memorite was developed to be an Anki competitor but with more pleasant UI in return for limited customizability.
+*See full presentation at: https://youtu.be/TolJb8sQQMM*
 
 <kbd>![UI 2](https://user-images.githubusercontent.com/21182768/159854672-d624f84b-5aae-4588-9953-cf8339f65d16.PNG)</kbd>
 
 
-
 ## How it works?
-There are 8 distinct intervals between reviews ranging from 4 hours to 4 months depending on your proficiency. Successful revision will rise your word proficiency to next level. Similarly, if you make a mistake your level will be decreased also shortening the time you have to wait for your next review. Once you've successfully reviewed a word 8 times it will be Burned - meaning it will never appear in your reviews ever again 😭.
+##### Lessons:
+Lessons allow us to get familirised with our new vocabulary before they're added to review queue. You will be shown the word, it's definition, and if the word is in foreign writing system also reading. After that you only have to show that you remember them by typing the correct answers.
 
-Time Intervals are as follows:
+##### Reviews:
+Reviews are where the real long-term learning happens. Each word has its distinct time interval based on your proficiency. Once the time is right, the word will be queued and ready for review. You can review the words as they become avaliable in handfuls, or wait until the end of day and review them all at once.
+
+##### Intervals:
+There are 8 distinct time intervals and 5 levels in Memorite. Intervals range from 4 hours to 4 months depending on your proficiency. Successful revision will increase your level while the failure to answer correctly will decrease it resulting in shorter interval until your next revision. Once you've successfully reviewed a word 8 times it will be Burned - meaning it will never appear in your reviews ever again 😭.
+
+Intervals are as follows:
 - Novice 1 | 4h
 - Novice 2 | 8h
 - Novice 3 | 23h (1d - 1h)
