@@ -9,7 +9,7 @@
 
 
 ## How it works?
-There are 8 distinct time intervals between your reviews the length of which depends on your proficiency, or simply your level. The intervals range from 4 hours to as long as 4 months. Successful revision will rise your word proficiency to next level. Similarly, if you make a mistake your level will be lowered also shortening the time you have to wait for your next review. Once you've successfully reviewed a word 8 times it will be Burned - meaning it will never appear in your reviews ever again.
+There are 8 distinct intervals between reviews ranging from 4 hours to 4 months depending on your proficiency. Successful revision will rise your word proficiency to next level. Similarly, if you make a mistake your level will be decreased also shortening the time you have to wait for your next review. Once you've successfully reviewed a word 8 times it will be Burned - meaning it will never appear in your reviews ever again 😭.
 
 Time Intervals are as follows:
 - Novice 1 | 4h
