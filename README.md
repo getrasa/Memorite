@@ -21,7 +21,13 @@ Time Intervals are as follows:
 - Superior 7 | 719h (1m - 1h)
 - Burned 8 | 2879h (4m - 1h)
 
-
+## Technologies
+Memorite was written using MERN Stack which consists of:
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- Redux (Not really MERN but was also used) 
 
 
 
