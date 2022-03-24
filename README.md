@@ -9,13 +9,13 @@
 
 ## How it works?
 ##### Lessons:
-Lessons allow us to get familirised with our new vocabulary before they're added to review queue. You will be shown the word, it's definition, and if the word is in foreign writing system also reading. After that you only have to show that you remember them by typing the correct answers.
+Lessons allow us to get familiarised with our new vocabulary before they're added to review queue. You will be shown the word, its definition, and if the word is in foreign writing system also reading. After that you only have to show that you remember it by typing the correct answers.
 
 ##### Reviews:
-Reviews are where the real long-term learning happens. Each word has its distinct time interval based on your proficiency. Once the time is right, the word will be queued and ready for review. You can review the words as they become avaliable in handfuls, or wait until the end of day and review them all at once.
+Reviews are where the real long-term learning happens. Each word has its distinct time interval based on your proficiency. Once the time is right, the word will be queued and ready for review. You can review the words as they become avaliable in chunks, or wait until the end of the day and review them all at once.
 
 ##### Intervals:
-There are 8 distinct time intervals and 5 levels in Memorite. Intervals range from 4 hours to 4 months depending on your proficiency. Successful revision will increase your level while the failure to answer correctly will decrease it resulting in shorter interval until your next revision. Once you've successfully reviewed a word 8 times it will be Burned - meaning it will never appear in your reviews ever again 😭.
+There are 8 distinct time intervals and 5 levels in Memorite. Intervals range from 4 hours to 4 months depending on your proficiency. Successful revision will increase your level while the failure to answer correctly will decrease it resulting in shorter interval until your next revision. Once you've successfully reviewed a word 8 times it will be **Burned** - meaning it will never appear in your reviews ever again 😭.
 
 Intervals are as follows:
 - Novice 1 | 4h
