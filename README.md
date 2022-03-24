@@ -28,7 +28,7 @@ Intervals are as follows:
 - Burned 8 | 2879h (4m - 1h)
 
 ## Technologies
-Memorite was written using MERN Stack which consists of:
+Memorite was developed using MERN Stack which consists of:
 - MongoDB
 - Express.js
 - React.js
